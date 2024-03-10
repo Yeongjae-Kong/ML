@@ -1,2 +1,4 @@
 # Machine Learning 
-21년도 박상현 교수님의 기계학습개론 과목을 수강하며 진행한 프로젝트들 정리
+
+Organizing projects conducted while taking an introductory machine learning course by Professor Park Sang-hyun in 2021. 
+Plotting, Regression, Classification, clustering, and PCA are implemented.
